@@ -1,0 +1,4400 @@
+200:
+  acc1: 85.87999725341797
+  acc5: 96.0999984741211
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 201.776768
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.674504313325882
+  mode: evaluate
+  net_id: net_0_evo_0_0
+  params: 7.450948
+  resolution: 192
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 216
+  - 1792
+210:
+  acc1: 85.5999984741211
+  acc5: 96.1199951171875
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 213.356096
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.6837709561347961
+  mode: evaluate
+  net_id: net_0_evo_16_mutate_60
+  params: 8.38558
+  resolution: 192
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 216
+  - 216
+  - 1792
+220:
+  acc1: 85.75999450683594
+  acc5: 96.15999603271484
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 6
+  - 5
+  - 6
+  - 6
+  flops: 222.591616
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.6754247421741486
+  mode: evaluate
+  net_id: net_0_evo_18_mutate_102
+  params: 7.8409
+  resolution: 192
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 224
+  - 1792
+230:
+  acc1: 85.86000061035156
+  acc5: 96.05999755859375
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 229.704256
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.6741823192119598
+  mode: evaluate
+  net_id: net_1_evo_17_mutate_123
+  params: 7.691732
+  resolution: 192
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1792
+240:
+  acc1: 85.97999572753906
+  acc5: 96.22000122070312
+  depth:
+  - 1
+  - 3
+  - 3
+  - 4
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  flops: 240.086144
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.6734835746765137
+  mode: evaluate
+  net_id: net_1_evo_13_mutate_97
+  params: 8.109388
+  resolution: 192
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 224
+  - 1792
+250:
+  acc1: 85.95999908447266
+  acc5: 96.0999984741211
+  depth:
+  - 1
+  - 3
+  - 3
+  - 4
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 246.775936
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.672944266986847
+  mode: evaluate
+  net_id: net_1_evo_2_mutate_59
+  params: 7.985604
+  resolution: 192
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1792
+260:
+  acc1: 85.93999481201172
+  acc5: 96.0
+  depth:
+  - 1
+  - 3
+  - 6
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 6
+  - 6
+  - 6
+  flops: 264.478976
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.6785674249649047
+  mode: evaluate
+  net_id: net_0_evo_10_mutate_54
+  params: 8.603228
+  resolution: 192
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1984
+270:
+  acc1: 85.87999725341797
+  acc5: 96.0
+  depth:
+  - 1
+  - 3
+  - 6
+  - 4
+  - 3
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 273.155072
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.6809519940376282
+  mode: evaluate
+  net_id: net_1_evo_1_mutate_105
+  params: 9.030748
+  resolution: 192
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1792
+280:
+  acc1: 86.0
+  acc5: 96.13999938964844
+  depth:
+  - 1
+  - 3
+  - 6
+  - 4
+  - 3
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 282.260864
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.6791782299518585
+  mode: evaluate
+  net_id: net_1_evo_15_mutate_109
+  params: 9.656004
+  resolution: 192
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 224
+  - 1984
+290:
+  acc1: 86.54000091552734
+  acc5: 96.73999786376953
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 286.21728
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.6208019378185272
+  mode: evaluate
+  net_id: net_0_evo_8_mutate_122
+  params: 8.16118
+  resolution: 224
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 208
+  - 224
+  - 1792
+300:
+  acc1: 86.68000030517578
+  acc5: 96.87999725341797
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 302.51616
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.6197433866977692
+  mode: evaluate
+  net_id: net_0_evo_9_mutate_56
+  params: 8.471868
+  resolution: 224
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 112
+  - 208
+  - 224
+  - 1984
+310:
+  acc1: 86.86000061035156
+  acc5: 96.87999725341797
+  depth:
+  - 1
+  - 3
+  - 6
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 309.542336
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.6138076701641083
+  mode: evaluate
+  net_id: net_0_evo_18_mutate_66
+  params: 7.77466
+  resolution: 224
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 120
+  - 192
+  - 224
+  - 1792
+320:
+  acc1: 87.1199951171875
+  acc5: 96.95999908447266
+  depth:
+  - 1
+  - 3
+  - 3
+  - 4
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 323.73696
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.6121496345996856
+  mode: evaluate
+  net_id: net_0_evo_3_mutate_58
+  params: 7.964692
+  resolution: 224
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1792
+330:
+  acc1: 86.6199951171875
+  acc5: 96.72000122070312
+  depth:
+  - 1
+  - 3
+  - 4
+  - 4
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 333.211328
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  loss: 0.6206792944908142
+  mode: evaluate
+  net_id: net_0_evo_17_mutate_20
+  params: 8.322244
+  resolution: 224
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 112
+  - 200
+  - 224
+  - 1792
+340:
+  acc1: 87.25999450683594
+  acc5: 96.91999816894531
+  depth:
+  - 1
+  - 3
+  - 3
+  - 5
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 339.470624
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.6097287148237228
+  mode: evaluate
+  net_id: net_0_evo_14_mutate_18
+  params: 7.955436
+  resolution: 224
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 112
+  - 192
+  - 224
+  - 1792
+350:
+  acc1: 87.0
+  acc5: 96.93999481201172
+  depth:
+  - 1
+  - 3
+  - 3
+  - 6
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 349.52224
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.6120970032215118
+  mode: evaluate
+  net_id: net_0_evo_17_crossover_2
+  params: 8.03474
+  resolution: 224
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 112
+  - 192
+  - 224
+  - 1792
+360:
+  acc1: 87.04000091552734
+  acc5: 97.0
+  depth:
+  - 1
+  - 3
+  - 6
+  - 3
+  - 3
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 358.281088
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.6086103949069976
+  mode: evaluate
+  net_id: net_0_evo_10_mutate_48
+  params: 9.02274
+  resolution: 224
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 128
+  - 192
+  - 216
+  - 1792
+370:
+  acc1: 87.0199966430664
+  acc5: 96.95999908447266
+  depth:
+  - 1
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 6
+  - 6
+  - 6
+  flops: 370.72928
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.6128649506807328
+  mode: evaluate
+  net_id: net_1_evo_11_crossover_1
+  params: 8.411604
+  resolution: 224
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 128
+  - 192
+  - 216
+  - 1792
+380:
+  acc1: 87.45999908447266
+  acc5: 97.04000091552734
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 383.724288
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  loss: 0.5926792691469193
+  mode: evaluate
+  net_id: net_0_evo_15_mutate_32
+  params: 7.970196
+  resolution: 256
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 120
+  - 200
+  - 216
+  - 1792
+390:
+  acc1: 87.65999603271484
+  acc5: 97.0199966430664
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 389.054976
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5874886534452438
+  mode: evaluate
+  net_id: net_0_evo_13_mutate_104
+  params: 8.220564
+  resolution: 256
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 120
+  - 200
+  - 216
+  - 1984
+400:
+  acc1: 87.37999725341797
+  acc5: 97.22000122070312
+  depth:
+  - 1
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 397.8688
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 5
+  - 5
+  loss: 0.5915351536989212
+  mode: evaluate
+  net_id: net_1_evo_12_mutate_27
+  params: 7.867684
+  resolution: 256
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 216
+  - 1984
+410:
+  acc1: 87.5999984741211
+  acc5: 97.05999755859375
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 407.867136
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5861481638669968
+  mode: evaluate
+  net_id: net_1_evo_7_mutate_113
+  params: 8.351932
+  resolution: 256
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 128
+  - 200
+  - 216
+  - 1984
+420:
+  acc1: 87.75999450683594
+  acc5: 97.15999603271484
+  depth:
+  - 1
+  - 3
+  - 4
+  - 3
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 424.707328
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  loss: 0.5825015627145768
+  mode: evaluate
+  net_id: net_1_evo_13_mutate_81
+  params: 7.96658
+  resolution: 256
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1792
+430:
+  acc1: 87.69999694824219
+  acc5: 97.27999877929688
+  depth:
+  - 1
+  - 3
+  - 4
+  - 3
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 427.1104
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  loss: 0.583591948390007
+  mode: evaluate
+  net_id: net_0_evo_4_mutate_62
+  params: 8.361828
+  resolution: 256
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 120
+  - 192
+  - 224
+  - 1984
+440:
+  acc1: 87.91999816894531
+  acc5: 97.23999786376953
+  depth:
+  - 1
+  - 3
+  - 4
+  - 3
+  - 4
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 443.89632
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5810352777004242
+  mode: evaluate
+  net_id: net_1_evo_5_crossover_3
+  params: 8.89562
+  resolution: 256
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 216
+  - 1792
+450:
+  acc1: 87.93999481201172
+  acc5: 97.25999450683594
+  depth:
+  - 1
+  - 3
+  - 4
+  - 3
+  - 4
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 447.82848
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.579770252919197
+  mode: evaluate
+  net_id: net_1_evo_17_mutate_47
+  params: 8.91098
+  resolution: 256
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 216
+  - 1792
+460:
+  acc1: 87.83999633789062
+  acc5: 97.18000030517578
+  depth:
+  - 1
+  - 3
+  - 4
+  - 3
+  - 4
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 464.132608
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5838346074581147
+  mode: evaluate
+  net_id: net_1_evo_10_mutate_53
+  params: 9.686756
+  resolution: 256
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 208
+  - 216
+  - 1792
+470:
+  acc1: 87.81999969482422
+  acc5: 97.69999694824219
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 470.810784
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 5
+  - 3
+  loss: 0.5602331888198853
+  mode: evaluate
+  net_id: net_1_evo_13_mutate_63
+  params: 7.661932
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1792
+480:
+  acc1: 88.0199966430664
+  acc5: 97.5199966430664
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 476.170176
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  loss: 0.5598003155946731
+  mode: evaluate
+  net_id: net_1_evo_16_mutate_23
+  params: 8.042404
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 120
+  - 192
+  - 224
+  - 1984
+490:
+  acc1: 88.25999450683594
+  acc5: 97.79999542236328
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 492.319648
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.552954678273201
+  mode: evaluate
+  net_id: net_1_evo_9_crossover_1
+  params: 7.686676
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 216
+  - 1792
+500:
+  acc1: 88.25999450683594
+  acc5: 97.81999969482422
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 504.524192
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5537646942138672
+  mode: evaluate
+  net_id: net_1_evo_17_mutate_109
+  params: 7.845436
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1792
+510:
+  acc1: 88.18000030517578
+  acc5: 97.79999542236328
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 506.611744
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5546364440441132
+  mode: evaluate
+  net_id: net_0_evo_15_mutate_56
+  params: 7.842124
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 224
+  - 1792
+520:
+  acc1: 88.31999969482422
+  acc5: 97.77999877929688
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 524.548416
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5506077374219894
+  mode: evaluate
+  net_id: net_1_evo_17_mutate_53
+  params: 8.155588
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 120
+  - 192
+  - 216
+  - 1984
+530:
+  acc1: 88.18000030517578
+  acc5: 97.55999755859375
+  depth:
+  - 1
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 525.212992
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5563461218118667
+  mode: evaluate
+  net_id: net_0_evo_8_mutate_56
+  params: 8.596716
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 208
+  - 224
+  - 1984
+540:
+  acc1: 88.25999450683594
+  acc5: 97.57999420166016
+  depth:
+  - 1
+  - 3
+  - 3
+  - 6
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 536.266048
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5517016289710999
+  mode: evaluate
+  net_id: net_0_evo_18_mutate_0
+  params: 7.933076
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 120
+  - 192
+  - 224
+  - 1792
+550:
+  acc1: 88.43999481201172
+  acc5: 97.68000030517578
+  depth:
+  - 1
+  - 3
+  - 3
+  - 6
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 553.5888
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.5513587218284607
+  mode: evaluate
+  net_id: net_0_evo_12_crossover_0
+  params: 8.111396
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1984
+560:
+  acc1: 88.33999633789062
+  acc5: 97.57999420166016
+  depth:
+  - 1
+  - 3
+  - 3
+  - 6
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 561.615168
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5513118333339692
+  mode: evaluate
+  net_id: net_0_evo_17_mutate_86
+  params: 7.868964
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1792
+570:
+  acc1: 88.43999481201172
+  acc5: 97.72000122070312
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 571.759488
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.554454689836502
+  mode: evaluate
+  net_id: net_0_evo_15_mutate_124
+  params: 8.178804
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 128
+  - 192
+  - 224
+  - 1792
+580:
+  acc1: 88.23999786376953
+  acc5: 97.5
+  depth:
+  - 1
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 575.362816
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5645376113891601
+  mode: evaluate
+  net_id: net_0_evo_9_mutate_68
+  params: 10.131052
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 112
+  - 208
+  - 224
+  - 1984
+590:
+  acc1: 88.29999542236328
+  acc5: 97.75999450683594
+  depth:
+  - 1
+  - 3
+  - 5
+  - 4
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 590.541568
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 5
+  loss: 0.5578517741203308
+  mode: evaluate
+  net_id: net_1_evo_15_crossover_1
+  params: 8.10266
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 192
+  - 216
+  - 1984
+600:
+  acc1: 88.37999725341797
+  acc5: 97.55999755859375
+  depth:
+  - 1
+  - 3
+  - 6
+  - 3
+  - 4
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 602.434368
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 5
+  loss: 0.5602643304347992
+  mode: evaluate
+  net_id: net_0_evo_7_mutate_122
+  params: 9.23566
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 120
+  - 192
+  - 224
+  - 1792
+610:
+  acc1: 88.31999969482422
+  acc5: 97.73999786376953
+  depth:
+  - 1
+  - 3
+  - 6
+  - 6
+  - 3
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 612.030336
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5486085289478302
+  mode: evaluate
+  net_id: net_1_evo_15_mutate_125
+  params: 8.23474
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1984
+620:
+  acc1: 88.36000061035156
+  acc5: 97.79999542236328
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 623.379968
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.546578789806366
+  mode: evaluate
+  net_id: net_1_evo_16_mutate_17
+  params: 8.378452
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1984
+630:
+  acc1: 88.25999450683594
+  acc5: 97.6199951171875
+  depth:
+  - 1
+  - 3
+  - 4
+  - 3
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 632.938112
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 5
+  - 3
+  - 5
+  loss: 0.5579176249980926
+  mode: evaluate
+  net_id: net_0_evo_16_mutate_74
+  params: 8.465292
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 192
+  - 224
+  - 1792
+640:
+  acc1: 88.31999969482422
+  acc5: 97.69999694824219
+  depth:
+  - 1
+  - 3
+  - 3
+  - 6
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 638.409344
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5481603508710862
+  mode: evaluate
+  net_id: net_1_evo_15_mutate_55
+  params: 8.683436
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 192
+  - 216
+  - 1984
+650:
+  acc1: 88.41999816894531
+  acc5: 97.5999984741211
+  depth:
+  - 1
+  - 3
+  - 3
+  - 4
+  - 4
+  - 6
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 650.469312
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 5
+  loss: 0.5601470901012421
+  mode: evaluate
+  net_id: net_1_evo_18_mutate_99
+  params: 11.429156
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 120
+  - 192
+  - 216
+  - 1792
+660:
+  acc1: 88.54000091552734
+  acc5: 97.83999633789062
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 659.346304
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5482815053939819
+  mode: evaluate
+  net_id: net_0_evo_17_mutate_108
+  params: 8.177004
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 192
+  - 216
+  - 1792
+670:
+  acc1: 88.4000015258789
+  acc5: 97.63999938964844
+  depth:
+  - 1
+  - 3
+  - 4
+  - 3
+  - 5
+  - 3
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 673.908928
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.5543268429279328
+  mode: evaluate
+  net_id: net_0_evo_11_mutate_10
+  params: 10.021828
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1984
+680:
+  acc1: 88.57999420166016
+  acc5: 97.79999542236328
+  depth:
+  - 1
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 6
+  - 6
+  - 6
+  flops: 681.413376
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.5442169307947159
+  mode: evaluate
+  net_id: net_0_evo_13_mutate_22
+  params: 9.328124
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1984
+690:
+  acc1: 88.5
+  acc5: 97.79999542236328
+  depth:
+  - 1
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 4
+  - 6
+  - 6
+  - 6
+  flops: 692.23296
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.5452144340753555
+  mode: evaluate
+  net_id: net_1_evo_10_crossover_3
+  params: 8.969188
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 216
+  - 1792
+700:
+  acc1: 88.43999481201172
+  acc5: 97.83999633789062
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 4
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 697.783936
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.5487614927291871
+  mode: evaluate
+  net_id: net_1_evo_18_mutate_75
+  params: 8.745052
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 128
+  - 192
+  - 224
+  - 1984
+710:
+  acc1: 88.47999572753906
+  acc5: 97.81999969482422
+  depth:
+  - 1
+  - 3
+  - 4
+  - 5
+  - 6
+  - 6
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 714.987392
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5523885894298554
+  mode: evaluate
+  net_id: net_1_evo_0_mutate_57
+  params: 11.833316
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 224
+  - 1792
+720:
+  acc1: 88.5199966430664
+  acc5: 97.63999938964844
+  depth:
+  - 1
+  - 3
+  - 3
+  - 6
+  - 5
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  - 6
+  flops: 724.321792
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.5475030967473984
+  mode: evaluate
+  net_id: net_0_evo_8_mutate_78
+  params: 9.557684
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1984
+730:
+  acc1: 88.45999908447266
+  acc5: 97.75999450683594
+  depth:
+  - 1
+  - 3
+  - 6
+  - 6
+  - 4
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 4
+  - 5
+  - 6
+  - 6
+  flops: 729.321088
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5511116092681885
+  mode: evaluate
+  net_id: net_0_evo_10_mutate_94
+  params: 11.157772
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 120
+  - 192
+  - 224
+  - 1984
+740:
+  acc1: 88.55999755859375
+  acc5: 97.68000030517578
+  depth:
+  - 1
+  - 3
+  - 3
+  - 4
+  - 8
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 6
+  - 4
+  - 6
+  - 6
+  flops: 741.253376
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5459622074127197
+  mode: evaluate
+  net_id: net_1_evo_15_mutate_85
+  params: 9.025204
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 192
+  - 216
+  - 1792
+750:
+  acc1: 88.55999755859375
+  acc5: 97.72000122070312
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 4
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 753.516288
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5508084239959716
+  mode: evaluate
+  net_id: net_1_evo_11_mutate_37
+  params: 10.715588
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 128
+  - 192
+  - 224
+  - 1792
+760:
+  acc1: 88.47999572753906
+  acc5: 97.77999877929688
+  depth:
+  - 1
+  - 3
+  - 3
+  - 4
+  - 8
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 6
+  - 4
+  - 6
+  - 6
+  flops: 758.903232
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.546999746465683
+  mode: evaluate
+  net_id: net_0_evo_16_mutate_4
+  params: 9.092428
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1792
+770:
+  acc1: 88.5999984741211
+  acc5: 97.73999786376953
+  depth:
+  - 1
+  - 3
+  - 6
+  - 6
+  - 4
+  - 5
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 774.085952
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5563506519794464
+  mode: evaluate
+  net_id: net_0_evo_12_mutate_0
+  params: 12.595876
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 192
+  - 224
+  - 1984
+780:
+  acc1: 88.43999481201172
+  acc5: 97.63999938964844
+  depth:
+  - 1
+  - 3
+  - 4
+  - 5
+  - 8
+  - 3
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 782.420544
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5558320175647735
+  mode: evaluate
+  net_id: net_0_evo_2_crossover_0
+  params: 11.36518
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 112
+  - 216
+  - 224
+  - 1792
+790:
+  acc1: 88.47999572753906
+  acc5: 97.75999450683594
+  depth:
+  - 1
+  - 3
+  - 3
+  - 4
+  - 8
+  - 3
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 6
+  - 4
+  - 6
+  - 6
+  flops: 788.665984
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5526354412555694
+  mode: evaluate
+  net_id: net_0_evo_12_mutate_6
+  params: 10.768844
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 192
+  - 216
+  - 1984
+800:
+  acc1: 88.57999420166016
+  acc5: 97.81999969482422
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 6
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 795.917568
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.547699017381668
+  mode: evaluate
+  net_id: net_0_evo_12_mutate_86
+  params: 11.176244
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1984
+810:
+  acc1: 88.5199966430664
+  acc5: 97.77999877929688
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 8
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 807.293056
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5465657691478729
+  mode: evaluate
+  net_id: net_1_evo_13_mutate_91
+  params: 10.329708
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 112
+  - 192
+  - 216
+  - 1984
+820:
+  acc1: 88.57999420166016
+  acc5: 97.83999633789062
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 8
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 819.216
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.5429588781833649
+  mode: evaluate
+  net_id: net_1_evo_6_mutate_89
+  params: 9.521964
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1984
+830:
+  acc1: 88.5199966430664
+  acc5: 97.72000122070312
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 4
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 825.517504
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5506464432954788
+  mode: evaluate
+  net_id: net_0_evo_0_70
+  params: 11.473788
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1792
+840:
+  acc1: 88.5199966430664
+  acc5: 97.77999877929688
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 6
+  - 6
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 838.693504
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5501282307624817
+  mode: evaluate
+  net_id: net_1_evo_15_crossover_3
+  params: 12.149708
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1792
+850:
+  acc1: 88.54000091552734
+  acc5: 97.73999786376953
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 8
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 848.53696
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5476413936138153
+  mode: evaluate
+  net_id: net_1_evo_0_181
+  params: 10.961516
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 112
+  - 192
+  - 216
+  - 1984
+860:
+  acc1: 88.57999420166016
+  acc5: 97.95999908447266
+  depth:
+  - 1
+  - 3
+  - 6
+  - 6
+  - 8
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 4
+  - 6
+  - 6
+  flops: 861.36384
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5448559717178345
+  mode: evaluate
+  net_id: net_0_evo_12_mutate_58
+  params: 9.791196
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 128
+  - 192
+  - 216
+  - 1984
+870:
+  acc1: 88.5999984741211
+  acc5: 97.72000122070312
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 6
+  - 5
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 4
+  - 5
+  - 6
+  - 6
+  flops: 868.82912
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5585502200126647
+  mode: evaluate
+  net_id: net_1_evo_10_mutate_9
+  params: 12.958652
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1792
+880:
+  acc1: 88.47999572753906
+  acc5: 97.87999725341797
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 8
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 875.828864
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5474698206424713
+  mode: evaluate
+  net_id: net_1_evo_9_mutate_35
+  params: 11.314212
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 216
+  - 1792
+890:
+  acc1: 88.63999938964844
+  acc5: 97.77999877929688
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 8
+  - 4
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 4
+  - 6
+  - 6
+  flops: 885.638272
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5522574091434479
+  mode: evaluate
+  net_id: net_0_evo_8_mutate_48
+  params: 11.630236
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 216
+  - 1792
+900:
+  acc1: 88.45999908447266
+  acc5: 97.81999969482422
+  depth:
+  - 1
+  - 3
+  - 4
+  - 5
+  - 6
+  - 5
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 5
+  - 6
+  - 6
+  flops: 895.441536
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5582589118957519
+  mode: evaluate
+  net_id: net_0_evo_8_mutate_34
+  params: 13.229108
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 120
+  - 192
+  - 224
+  - 1792
+910:
+  acc1: 88.69999694824219
+  acc5: 97.5999984741211
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 8
+  - 4
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 4
+  - 6
+  - 6
+  flops: 906.211072
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  loss: 0.5591094334125519
+  mode: evaluate
+  net_id: net_1_evo_14_mutate_55
+  params: 11.71962
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 216
+  - 1792
+920:
+  acc1: 88.5
+  acc5: 97.79999542236328
+  depth:
+  - 1
+  - 3
+  - 6
+  - 4
+  - 8
+  - 4
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 4
+  - 6
+  - 6
+  flops: 921.541952
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5533015617847442
+  mode: evaluate
+  net_id: net_1_evo_15_mutate_113
+  params: 11.896108
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 120
+  - 192
+  - 216
+  - 1792
+930:
+  acc1: 88.45999908447266
+  acc5: 97.83999633789062
+  depth:
+  - 1
+  - 3
+  - 4
+  - 5
+  - 7
+  - 5
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 4
+  - 6
+  - 6
+  flops: 925.977984
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5546196671009064
+  mode: evaluate
+  net_id: net_0_evo_17_mutate_100
+  params: 13.179548
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 128
+  - 192
+  - 224
+  - 1792
+940:
+  acc1: 88.43999481201172
+  acc5: 97.79999542236328
+  depth:
+  - 1
+  - 3
+  - 6
+  - 6
+  - 8
+  - 4
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 942.931584
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.54600390894413
+  mode: evaluate
+  net_id: net_0_evo_8_mutate_14
+  params: 11.20246
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 216
+  - 1984
+950:
+  acc1: 88.41999816894531
+  acc5: 97.86000061035156
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 8
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 950.817216
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5438958482503891
+  mode: evaluate
+  net_id: net_1_evo_17_mutate_9
+  params: 10.850628
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 192
+  - 224
+  - 1792
+960:
+  acc1: 88.4000015258789
+  acc5: 97.83999633789062
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 6
+  - 6
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 5
+  - 6
+  - 6
+  flops: 956.43136
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5595384819984436
+  mode: evaluate
+  net_id: net_0_evo_13_mutate_122
+  params: 14.468756
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 120
+  - 192
+  - 224
+  - 1792
+970:
+  acc1: 88.43999481201172
+  acc5: 97.77999877929688
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 8
+  - 3
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 969.894336
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5440256449699402
+  mode: evaluate
+  net_id: net_1_evo_3_mutate_61
+  params: 10.865348
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 192
+  - 224
+  - 1792
+980:
+  acc1: 88.5199966430664
+  acc5: 97.68000030517578
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 7
+  - 5
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 6
+  - 6
+  - 6
+  flops: 975.6768
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5571676094532013
+  mode: evaluate
+  net_id: net_1_evo_14_mutate_17
+  params: 13.723108
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 112
+  - 192
+  - 216
+  - 1792
+990:
+  acc1: 88.54000091552734
+  acc5: 97.79999542236328
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 7
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 987.751296
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5479898920059204
+  mode: evaluate
+  net_id: net_0_evo_18_mutate_54
+  params: 12.924068
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 192
+  - 216
+  - 1984
+1000:
+  acc1: 88.47999572753906
+  acc5: 97.79999542236328
+  depth:
+  - 1
+  - 3
+  - 6
+  - 6
+  - 8
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 6
+  - 6
+  - 6
+  flops: 1002.667392
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.547590666794777
+  mode: evaluate
+  net_id: net_1_evo_10_mutate_75
+  params: 12.76802
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1792
+1010:
+  acc1: 88.47999572753906
+  acc5: 97.55999755859375
+  depth:
+  - 1
+  - 3
+  - 6
+  - 5
+  - 6
+  - 6
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 6
+  - 6
+  - 6
+  flops: 1010.553216
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5583612722873688
+  mode: evaluate
+  net_id: net_1_evo_13_mutate_93
+  params: 15.070316
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 120
+  - 192
+  - 224
+  - 1792
+1020:
+  acc1: 88.5199966430664
+  acc5: 97.68000030517578
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 7
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1024.956928
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5498877242565156
+  mode: evaluate
+  net_id: net_1_evo_17_mutate_31
+  params: 13.009004
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1792
+1030:
+  acc1: 88.45999908447266
+  acc5: 97.68000030517578
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 7
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1031.98048
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5479789213418961
+  mode: evaluate
+  net_id: net_1_evo_15_mutate_53
+  params: 13.327396
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1984
+1040:
+  acc1: 88.45999908447266
+  acc5: 97.87999725341797
+  depth:
+  - 1
+  - 3
+  - 6
+  - 6
+  - 8
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1041.205248
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5470046552658081
+  mode: evaluate
+  net_id: net_0_evo_0_246
+  params: 12.826804
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 112
+  - 192
+  - 224
+  - 1792
+1050:
+  acc1: 88.41999816894531
+  acc5: 97.5999984741211
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 7
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1050.102208
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  loss: 0.5482751008987427
+  mode: evaluate
+  net_id: net_0_evo_9_mutate_30
+  params: 13.110972
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1792
+1060:
+  acc1: 88.5
+  acc5: 97.63999938964844
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 7
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1059.172288
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  - 3
+  loss: 0.5528978262424469
+  mode: evaluate
+  net_id: net_0_evo_15_mutate_120
+  params: 13.440172
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1984
+1070:
+  acc1: 88.47999572753906
+  acc5: 97.73999786376953
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 7
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1074.829568
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.548255066537857
+  mode: evaluate
+  net_id: net_0_evo_10_mutate_96
+  params: 13.103788
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1792
+1080:
+  acc1: 88.27999877929688
+  acc5: 97.47999572753906
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 7
+  - 6
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 5
+  - 6
+  - 6
+  flops: 1082.87424
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 3
+  - 3
+  - 5
+  loss: 0.568717637348175
+  mode: evaluate
+  net_id: net_1_evo_5_mutate_51
+  params: 16.767796
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 216
+  - 216
+  - 1984
+1090:
+  acc1: 88.27999877929688
+  acc5: 97.43999481201172
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 7
+  - 8
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 6
+  - 6
+  - 6
+  flops: 1085.57056
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 5
+  loss: 0.5686599165916443
+  mode: evaluate
+  net_id: net_0_evo_4_mutate_40
+  params: 16.515964
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1792
+1100:
+  acc1: 88.41999816894531
+  acc5: 97.54000091552734
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 7
+  - 5
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 6
+  - 6
+  - 6
+  flops: 1099.245184
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 5
+  - 3
+  - 5
+  loss: 0.5603184176445007
+  mode: evaluate
+  net_id: net_1_evo_12_mutate_75
+  params: 14.584012
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 128
+  - 192
+  - 216
+  - 1792
+1110:
+  acc1: 88.27999877929688
+  acc5: 97.68000030517578
+  depth:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 7
+  - 8
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 5
+  - 6
+  - 6
+  - 6
+  flops: 1110.868224
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5522823261260986
+  mode: evaluate
+  net_id: net_0_evo_18_mutate_58
+  params: 16.469236
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 72
+  - 128
+  - 192
+  - 216
+  - 1792
+1120:
+  acc1: 88.29999542236328
+  acc5: 97.31999969482422
+  depth:
+  - 1
+  - 3
+  - 3
+  - 5
+  - 8
+  - 8
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 6
+  - 6
+  - 6
+  flops: 1115.539584
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  loss: 0.5696777437686921
+  mode: evaluate
+  net_id: net_0_evo_1_mutate_54
+  params: 18.882716
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 120
+  - 216
+  - 216
+  - 1792
+1130:
+  acc1: 88.41999816894531
+  acc5: 97.65999603271484
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 7
+  - 5
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1133.956864
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  loss: 0.5563216250896453
+  mode: evaluate
+  net_id: net_1_evo_12_mutate_15
+  params: 15.173868
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 128
+  - 192
+  - 224
+  - 1984
+1140:
+  acc1: 88.4000015258789
+  acc5: 97.81999969482422
+  depth:
+  - 1
+  - 3
+  - 6
+  - 6
+  - 8
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  flops: 1139.147392
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  - 3
+  - 3
+  loss: 0.5478766640663147
+  mode: evaluate
+  net_id: net_1_evo_16_mutate_81
+  params: 13.731492
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 128
+  - 192
+  - 224
+  - 1792
+1150:
+  acc1: 88.1199951171875
+  acc5: 97.41999816894531
+  depth:
+  - 1
+  - 3
+  - 6
+  - 3
+  - 7
+  - 8
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 4
+  - 6
+  - 6
+  - 6
+  flops: 1150.524288
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 5
+  - 5
+  - 3
+  loss: 0.5650968474626541
+  mode: evaluate
+  net_id: net_0_evo_5_mutate_4
+  params: 17.486124
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 32
+  - 64
+  - 128
+  - 200
+  - 224
+  - 1792
+1160:
+  acc1: 88.18000030517578
+  acc5: 97.31999969482422
+  depth:
+  - 1
+  - 3
+  - 4
+  - 4
+  - 7
+  - 8
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1162.264832
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  - 3
+  - 5
+  loss: 0.5699184188127517
+  mode: evaluate
+  net_id: net_1_evo_17_mutate_91
+  params: 19.99362
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 64
+  - 120
+  - 216
+  - 216
+  - 1792
+1170:
+  acc1: 88.43999481201172
+  acc5: 97.45999908447266
+  depth:
+  - 1
+  - 3
+  - 5
+  - 6
+  - 7
+  - 6
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1168.205952
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 5
+  - 5
+  - 3
+  - 5
+  loss: 0.5583927901744843
+  mode: evaluate
+  net_id: net_1_evo_14_mutate_9
+  params: 14.479884
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 128
+  - 192
+  - 216
+  - 1792
+1180:
+  acc1: 88.31999969482422
+  acc5: 97.47999572753906
+  depth:
+  - 1
+  - 3
+  - 4
+  - 4
+  - 7
+  - 8
+  - 2
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 4
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1175.567104
+  kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.5615084344387055
+  mode: evaluate
+  net_id: net_1_evo_12_mutate_11
+  params: 20.246076
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 120
+  - 216
+  - 224
+  - 1792
+1190:
+  acc1: 88.4000015258789
+  acc5: 97.73999786376953
+  depth:
+  - 1
+  - 3
+  - 6
+  - 6
+  - 8
+  - 5
+  - 1
+  epoch: -1
+  expand_ratio:
+  - 1
+  - 4
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  flops: 1190.225408
+  kernel_size:
+  - 3
+  - 3
+  - 5
+  - 3
+  - 5
+  - 3
+  - 3
+  loss: 0.5494571617603302
+  mode: evaluate
+  net_id: net_0_evo_18_mutate_74
+  params: 13.88594
+  resolution: 288
+  width:
+  - 16
+  - 16
+  - 24
+  - 40
+  - 72
+  - 128
+  - 192
+  - 224
+  - 1792
