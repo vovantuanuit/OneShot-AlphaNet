@@ -11,7 +11,7 @@ UnZip and Move all downloaded folders into the `./dataset`
 - Please first download our [pretrained AlphaNet models on Imagenet-100](https://sutdapac-my.sharepoint.com/:u:/g/personal/vovan_tuan_sutd_edu_sg/ETQkn5ltU7lOjSBDaZ7VtxoBRSLZtLfmxGRIbEkZYPM5_Q?e=a6gB5m)  and put the pretrained models under your local folder *./alphanet_data*
 
 
-To search the Pareto models for the best FLOPs vs. accuracy tradeoffs in _parallel_supernet_evo_search.py_; to run this example:
+To search the Pareto models for the best FLOPs vs. accuracy tradeoffs in _parallel_supernet_evo_search.py_; to run this example; the results will saved at ./result_search:
 ```python
 python parallel_supernet_evo_search.py --config-file configs/parallel_supernet_evo_search.yml 
 ```
