@@ -8,7 +8,7 @@ UnZip and Move all downloaded folders into the `./dataset`
 
 ## Evaluation Evoluation Search
 
-- Please first download our [pretrained AlphaNet models on Imagenet-100](https://sutdapac-my.sharepoint.com/:u:/g/personal/vovan_tuan_sutd_edu_sg/ETQkn5ltU7lOjSBDaZ7VtxoBRSLZtLfmxGRIbEkZYPM5_Q?e=ZtN1pt)  and put the pretrained models under your local folder *./alphanet_data*
+- Please first download our [pretrained AlphaNet models on Imagenet-100](https://sutdapac-my.sharepoint.com/:u:/g/personal/vovan_tuan_sutd_edu_sg/ETQkn5ltU7lOjSBDaZ7VtxoBRSLZtLfmxGRIbEkZYPM5_Q?e=a6gB5m)  and put the pretrained models under your local folder *./alphanet_data*
 
 
 To search the Pareto models for the best FLOPs vs. accuracy tradeoffs in _parallel_supernet_evo_search.py_; to run this example:
@@ -18,7 +18,7 @@ python parallel_supernet_evo_search.py --config-file configs/parallel_supernet_e
 
 In case search with fixed some layer, please change the config file to fixed layer: ./configs/parallel_supernet_evo_search.yml
 
-''' bash
+```yaml
 supernet_config_fix:
     use_v3_head: True
     resolutions: [192, 224, 256, 288]
@@ -85,5 +85,6 @@ supernet_config_fix:
     last_conv:
         c: [1792, 1984]
         act_func: 'swish'
-'''
+```
+
 
