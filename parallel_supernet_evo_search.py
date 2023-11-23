@@ -133,7 +133,7 @@ def eval_worker(gpu, ngpus_per_node, args):
             f = round(cfg['flops'] / args.evo_search.step) * args.evo_search.step
             if f not in pareto_global or pareto_global[f]['acc1'] < cfg['acc1']:
                 pareto_global[f] = cfg
-            with open('./search.yml', 'w') as yaml_file:
+            with open('./result_search/search.yml', 'w') as yaml_file:
                 yaml.dump(pareto_global, yaml_file, default_flow_style=False)
         # print('xuong dayyyyyyyyyyyyyy')
         # next batch of sub-networks to be evaluated
