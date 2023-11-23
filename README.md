@@ -18,7 +18,7 @@ python parallel_supernet_evo_search.py --config-file configs/parallel_supernet_e
 
 In case search with fixed some layer, please change the config file to fixed layer: ./configs/parallel_supernet_evo_search.yml
 
-'''python
+''' bash
 supernet_config_fix:
     use_v3_head: True
     resolutions: [192, 224, 256, 288]
