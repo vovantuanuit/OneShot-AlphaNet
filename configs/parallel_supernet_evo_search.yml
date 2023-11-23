@@ -48,7 +48,7 @@ eval_only: True
 
 ### imagenet dataset ###
 dataset: 'imagenet'
-dataset_dir: "/home/tuanvv/AlphaNet/dataset/imagenet"
+dataset_dir: "./dataset/imagenet"
 n_classes: 100
 drop_last: True
 
